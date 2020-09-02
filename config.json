@@ -1,0 +1,32 @@
+{
+  "params":
+  {
+    "local_server":"True",
+    "local_uri":"mysql+mysqlconnector://root:@localhost/harshcodingthunder",
+    "prod_uri":  "mysql+mysqlconnector://root:@localhost/harshcodingthunder",
+    "fb_uri":"https://facebook.com/harshcodingthunder",
+    "tw_uri": "https://twitter.com/harshcodingthunder",
+    "gh_uri": "https://github.com/harshcodingthunder",
+    "blog_name":"Clean Blog",
+    "gmail-user": "harshprakash001@gmail.com",
+    "gmail-password": "rameshwaram123@",
+    "about_text": " hi my name is harshaa and I create programmer",
+    "no_of_posts": 2,
+    "login_image": "pm.jpg",
+    "admin_user": "hars",
+    "admin_password": "indi",
+    "upload_location": "C:\\Users\\User\\PycharmProjects\\hari"
+
+
+
+
+
+  }
+
+
+
+
+
+
+
+}
